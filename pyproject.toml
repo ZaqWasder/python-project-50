@@ -22,4 +22,4 @@ build-backend = "hatchling.build"
 packages = ["gendiff"]
 
 [project.scripts]
-hexlet-diff = "gendiff.scripts.gendiff:main"
+hexdiff = "gendiff.scripts.gendiff:main"
